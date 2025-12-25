@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Description:
+
+I am an aspiring AI/ML Engineer with hands-on experience in building and deploying real-world machine learning and deep learning solutions. I have a strong foundation in Python, C++, Data Structures  Algorithms, and core computer science subjects, along with practical expertise in Machine Learning, Deep Learning, and Data Science.
+
+I have worked on impactful projects including multimodal deepfake detection systems, customer segmentation using clustering, AI-powered healthcare solutions, real-time route planning using graph algorithms, and multi-agent AI systems for retail optimization. My technical stack includes TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask, Django, HTML, CSS, and JavaScript.
+
+I am highly motivated to secure a high-paying internship and full-time role at top product-based companies, continuously improving my skills in DSA, ML/DL, and emerging technologies like LLMs. I believe in disciplined growth, real-world problem solving, and building solutions that create measurable impact."
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="140dp" />
+</LinearLayout>
