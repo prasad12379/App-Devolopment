@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075573257616",
+    "project_id": "database-3d487",
+    "storage_bucket": "database-3d487.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075573257616:android:795ef7156d0636b673af15",
+        "android_client_info": {
+          "package_name": "com.example.onenightstudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXzhmPnqOSJzJUDR9-1YlDHwSiJxLXKco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
